@@ -21,6 +21,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "config_common.h"
 
 #define PRODUCT_ID 0x3538
+// #define PRODUCT_ID 0x3537
 #define DEVICE_VER 0x0002
 #define PRODUCT    Dactyl-Manuform (5x6)
 
