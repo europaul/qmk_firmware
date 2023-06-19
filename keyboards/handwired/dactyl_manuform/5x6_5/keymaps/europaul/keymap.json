@@ -58,7 +58,7 @@
       "KC_LGUI",
       "KC_LBRC",
       "LT(1,KC_SPC)",
-      "KC_BSLS",
+      "RALT_T(KC_BSLS)",
       "KC_END",
       "KC_HOME",
       "KC_PAUS",
